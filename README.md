@@ -1,6 +1,6 @@
 # A Powershell script for Windows installation and ansible-playbook for Linux machines.
 
-They both are in the archive ```mass_agents_installation.zip``` and available at: [Website](https://hystax-eu-fra.s3.eu-central-1.amazonaws.com/Orange/mass_agents_installation.zip) 
+They both are in the archive ```mass_agents_installation.zip```
 
 To use mass installation script for Windows machines:
 
