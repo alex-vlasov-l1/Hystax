@@ -7,3 +7,4 @@ output/
 secrets/
 yc-cli/
 .DS_Store
+.gitignore
